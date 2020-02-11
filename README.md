@@ -1,7 +1,7 @@
 # MyMovieDB #
 Restful APIs written in java using Spring Boot.   APIs to find similar movies and get movie details.      
 Movie titles are downloaded from www.themoviedb.org      
-Movie details are downloaded from wikipedia    
+Movie details are downloaded from https://www.wikipedia.org/   
 Similarity in movies is based upon number of matching actors and categories.      
 
 
