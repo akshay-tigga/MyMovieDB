@@ -20,8 +20,7 @@ Additional parameters : 'format' and 'sort'
 Examples of API -            
 /movies?format=xml&sort=date.desc  : Return movie titles sorted by release date in descending order             
 /movies?format=json&sort=category.asc :  Return movie titles sorted by category count(total number of category tags for the movie) in ascending order                       
- 
----              
+        
 
 ## API 2 ##            
 Return all the information about a given movie            
@@ -34,7 +33,7 @@ Examples of API -
 /movies/Free%20Solo  : Return all information for the movie 'Free Solo'                  
 /movies/Free%20Solo?format=xml  : Return all information for the movie 'Free Solo' in xml format                  
 
----
+
 
 ## API 3 ##
 Return a list of similar movie titles ordered by the most similar movie first.                  
